@@ -32,3 +32,4 @@ def build_bert_model(config):
     bert_model = BERTModel(config)
     # Additional setup for building BERT model if needed
     return bert_model
+ 
