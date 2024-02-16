@@ -32,3 +32,4 @@ def build_gpt2_model(config):
     gpt2_model = GPT2Model(config)
     # Additional setup for building GPT-2 model if needed
     return gpt2_model
+ 
