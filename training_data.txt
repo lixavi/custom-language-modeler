@@ -1,0 +1,12 @@
+Training Data:
+
+1. The quick brown fox jumps over the lazy dog.
+2. She sells seashells by the seashore.
+3. How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+4. Peter Piper picked a peck of pickled peppers.
+5. Mary had a little lamb, its fleece was white as snow.
+6. To be or not to be, that is the question.
+7. Two roads diverged in a wood, and I—
+8. I took the one less traveled by,
+9. And that has made all the difference.
+10. All the world's a stage, and all the men and women merely players.
